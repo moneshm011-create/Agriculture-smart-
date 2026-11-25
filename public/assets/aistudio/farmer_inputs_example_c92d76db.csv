@@ -1,0 +1,4 @@
+farmer_id,crop,quantity_quintals,district,preferred_market,target_price_inr_per_quintal,expected_selling_date
+demo_farmer_001,Tomato,50,Dindigul,Oddanchatram Market,2500,2026-05-01
+demo_farmer_002,Onion,80,Salem,Salem Market,3000,2026-05-03
+demo_farmer_003,Paddy,100,Thanjavur,Thanjavur Market,2400,2026-05-05

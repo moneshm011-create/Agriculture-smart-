@@ -1,0 +1,8 @@
+{
+  "name": "Smart Crop Price Forecasting & Best-Market Advisor",
+  "description": "AI-powered agricultural dashboard helping Indian farmers predict crop prices, analyze market trends, and identify the most profitable market to sell their crops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

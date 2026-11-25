@@ -1,0 +1,32 @@
+date,state,district,market,crop,variety,arrival_quintals,rainfall_mm,price_per_quintal
+2026-11-11,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4100,4.2,2920
+2026-11-12,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4050,6.5,2960
+2026-11-13,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,3980,8.1,3010
+2026-11-14,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,3900,11.0,3080
+2026-11-15,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4120,7.0,3050
+2026-11-16,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4200,3.5,3020
+2026-11-17,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4180,2.0,3060
+2026-11-18,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4090,5.4,3110
+2026-11-19,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,3950,9.2,3160
+2026-11-20,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,3920,12.5,3210
+2026-11-21,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4010,8.0,3180
+2026-11-22,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,4060,6.2,3150
+2026-11-23,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,3990,7.5,3195
+2026-11-24,Tamil Nadu,Chennai,Koyambedu Market Chennai,Tomato,PKM 1,3940,8.2,3240
+2026-11-11,Tamil Nadu,Dindigul,Oddanchatram Market,Onion,Small Shallots,3050,5.0,3480
+2026-11-14,Tamil Nadu,Dindigul,Oddanchatram Market,Onion,Small Shallots,2980,9.5,3540
+2026-11-18,Tamil Nadu,Dindigul,Oddanchatram Market,Onion,Small Shallots,2920,14.0,3620
+2026-11-21,Tamil Nadu,Dindigul,Oddanchatram Market,Onion,Small Shallots,2880,18.2,3690
+2026-11-24,Tamil Nadu,Dindigul,Oddanchatram Market,Onion,Small Shallots,2910,16.0,3725
+2026-11-11,Tamil Nadu,Thanjavur,Thanjavur Agricultural Market,Paddy,ADT 43,2450,8.0,2290
+2026-11-15,Tamil Nadu,Thanjavur,Thanjavur Agricultural Market,Paddy,ADT 43,2400,10.5,2315
+2026-11-19,Tamil Nadu,Thanjavur,Thanjavur Agricultural Market,Paddy,ADT 43,2380,12.0,2330
+2026-11-24,Tamil Nadu,Thanjavur,Thanjavur Agricultural Market,Paddy,ADT 43,2340,12.4,2355
+2026-11-11,Tamil Nadu,Coimbatore,Coimbatore Agricultural Market,Turmeric,Erode Finger,1800,3.2,13850
+2026-11-15,Tamil Nadu,Coimbatore,Coimbatore Agricultural Market,Turmeric,Erode Finger,1760,4.0,13980
+2026-11-20,Tamil Nadu,Coimbatore,Coimbatore Agricultural Market,Turmeric,Erode Finger,1720,4.5,14120
+2026-11-24,Tamil Nadu,Coimbatore,Coimbatore Agricultural Market,Turmeric,Erode Finger,1700,4.5,14240
+2026-11-11,Tamil Nadu,Madurai,Madurai Agricultural Market,Chilli,Ramanathapuram Mundu,1550,1.5,16600
+2026-11-16,Tamil Nadu,Madurai,Madurai Agricultural Market,Chilli,Ramanathapuram Mundu,1590,2.0,16480
+2026-11-20,Tamil Nadu,Madurai,Madurai Agricultural Market,Chilli,Ramanathapuram Mundu,1620,2.2,16350
+2026-11-24,Tamil Nadu,Madurai,Madurai Agricultural Market,Chilli,Ramanathapuram Mundu,1640,2.1,16290
